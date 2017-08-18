@@ -1,2 +1,4 @@
 # hello-world
-My first repository! 
+
+I am an aspiring web developer and professional newbie. Best of both.
+Nice to meet you, World! 
